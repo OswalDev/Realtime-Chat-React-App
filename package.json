@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "shards-react": "^1.0.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
